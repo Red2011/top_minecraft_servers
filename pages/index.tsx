@@ -44,6 +44,24 @@ const projects = [
         serverLink: 'mc.cubego.ru',
         serverVideo: 'https://monitoringminecraft.net/api/banners/1150',
         serverDescription: '🟨🟨🟨🟨🟨🟨ДОНАТ АНАРХИЯ / F R E E 👑 ВЫЖИВАНИЕ МИНИИГРЫ🟨🟨🟨🟨ЖМИ ➜'
+    },
+    {
+        key: '1',
+        name: 'CubeGo',
+        version: '1.12.2 - 1.16.5',
+        usersOnline: 23,
+        serverLink: 'mc.cubego.ru',
+        serverVideo: 'https://monitoringminecraft.net/api/banners/1150',
+        serverDescription: '🟨🟨🟨🟨🟨🟨ДОНАТ АНАРХИЯ / F R E E 👑 ВЫЖИВАНИЕ МИНИИГРЫ🟨🟨🟨🟨ЖМИ ➜'
+    },
+    {
+        key: '1',
+        name: 'CubeGo',
+        version: '1.12.2 - 1.16.5',
+        usersOnline: 23,
+        serverLink: 'mc.cubego.ru',
+        serverVideo: 'https://monitoringminecraft.net/api/banners/1150',
+        serverDescription: '🟨🟨🟨🟨🟨🟨ДОНАТ АНАРХИЯ / F R E E 👑 ВЫЖИВАНИЕ МИНИИГРЫ🟨🟨🟨🟨ЖМИ ➜'
     }
     // More projects...
 ]
